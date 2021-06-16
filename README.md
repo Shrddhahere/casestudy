@@ -9,10 +9,10 @@ for this step please use pure JavaScript or jQuery
 
 git clone folder 
 
-**Please follow below steps**
+**Please follow below steps to visualise product detail page in browser**
 
-npm install
+1. npm install
 
-npm run build
+2. npm run build
 
-open index.html
+3. open index.html in browser
