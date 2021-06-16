@@ -1,0 +1,26 @@
+.image-wrapper {
+  min-height: 351px;
+}
+.image-slider {
+  .slick-dots {
+    display: none !important;
+  }
+ 
+}
+.color-block {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  &.color1 {
+    background-color: $color1 ;
+  }
+  &.color2 {
+    background-color: $color2;
+  }
+  &.color3 {
+    background-color: $color3;
+  }
+  &.color4 {
+    background-color: $color4;
+  }
+}
